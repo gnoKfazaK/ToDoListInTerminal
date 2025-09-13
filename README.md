@@ -4,8 +4,8 @@ I used an arraylist of Task class to act as a To Do List. <br>
 ``` Arraylist<Task> ```
 
 ## How to use
-Type 'a' to add a task, then input the task.
-Type 'c' to complete a task, then input the NUMBER of the task.
+Type 'a' to add a task, then input the task.<br>
+Type 'c' to complete a task, then input the NUMBER of the task.<br>
 Type 'd' to delete a task, then input the NUMBER of the task.
 
 ## Classes/Functions
