@@ -1,5 +1,4 @@
 # ToDoListInTerminal
-This is my first mini project using Java.<br>
 I used an arraylist of Task class to act as a To Do List. <br>
 ``` Arraylist<Task> ```
 
